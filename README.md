@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahritika
+- 👋 Hi, I’m @Ritika_Shah
 - 👀 I’m interested in coding, dancing, and shopping for myself
 - 🌱 I’m currently learning learning python, SQL, Excel, Power BI, machine learning, and AI
 - 💞️ I’m looking to collaborate on Data related work
