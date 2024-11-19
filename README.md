@@ -1,4 +1,4 @@
-# I'm Ritika👋
+# Hi, I'm Ritika👋
 
 
 
