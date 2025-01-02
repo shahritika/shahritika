@@ -1,6 +1,6 @@
-# Hi, I'm Ritika👋
-<h1 align="center">Hi 👋, I'm Ritika</h1>
-<h3 align="center">A passionate Data Analyst from USA</h3>
+
+<h1 align="front">Hi 👋, I'm Ritika</h1>
+<h3 align="front">A passionate Data Analyst from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahritika&label=Profile%20views&color=0e75b6&style=flat" alt="shahritika" /> </p>
 
